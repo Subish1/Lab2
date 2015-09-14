@@ -32,7 +32,7 @@ public class Lab2 {
 		// If the original man is going to St. Ives, then all are going
 		// the narrator, original man, kitten, cats, sacks, wives.
 		// If the original man is going AWAY from St. Ives, then the only
-		// person going is the narator
+		// person going is the naator
 
 		if (manGoingToStIves) {
 		    // 2. Remember, if the original man is going to St. Ives, then
